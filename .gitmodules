@@ -1,3 +1,0 @@
-[submodule "pgloader"]
-	path = pgloader
-	url = https://github.com/dimitri/pgloader.git
